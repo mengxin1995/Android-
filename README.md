@@ -1,5 +1,6 @@
 #图片加载库
 1. [UniversalImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader)
+2. [glide](https://github.com/bumptech/glide)
 
 #注入库
 1. [butterknife](https://github.com/JakeWharton/butterknife)
@@ -9,3 +10,6 @@
 
 #网络加载
 1. [okhttp](https://github.com/square/okhttp)
+
+#图片圆形化功能
+1. [CircleImageView](https://github.com/hdodenhof/CircleImageView)
