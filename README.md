@@ -13,3 +13,6 @@
 
 #图片圆形化功能
 1. [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+
+＃React Native资料
+1. [React Native中文网](https://reactnative.cn/)
