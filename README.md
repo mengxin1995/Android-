@@ -16,3 +16,4 @@
 
 #React Native资料
 1. [React Native中文网](https://reactnative.cn/)
+2. [React Native快速学习](https://github.com/crazycodeboy/RNStudyNotes/)
