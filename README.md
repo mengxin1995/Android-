@@ -17,3 +17,6 @@
 #React Native资料
 1. [React Native中文网](https://reactnative.cn/)
 2. [React Native快速学习](https://github.com/crazycodeboy/RNStudyNotes/)
+
+#轮播图片控件
+1. [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
