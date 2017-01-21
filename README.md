@@ -23,3 +23,6 @@
 
 #处理java的库
 1. [google使用guava](https://github.com/google/guava)
+
+#事件管理
+1. [事件管理平台](https://github.com/greenrobot/EventBus)
