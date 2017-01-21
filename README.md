@@ -20,3 +20,6 @@
 
 #轮播图片控件
 1. [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+
+#处理java的库
+1. [google使用guava](https://github.com/google/guava)
